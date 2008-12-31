@@ -8,7 +8,7 @@
 Summary:	%{_pearname} - provides a way to work with self contained multibyte strings
 Name:		php-pear-%{_pearname}
 Version:	0.2.1
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
