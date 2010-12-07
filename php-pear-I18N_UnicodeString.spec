@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.1
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Provides a way to work with self contained multibyte strings
 License:	PHP License
 Group:		Development/PHP
