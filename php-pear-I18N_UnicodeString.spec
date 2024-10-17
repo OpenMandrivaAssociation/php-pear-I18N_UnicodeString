@@ -8,7 +8,7 @@ Release:	10
 Summary:	Provides a way to work with self contained multibyte strings
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/I18N_UnicodeString/
+URL:		https://pear.php.net/package/I18N_UnicodeString/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
